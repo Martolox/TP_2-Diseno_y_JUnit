@@ -1,10 +1,10 @@
-package org.unrn.main;
+package org.unrn.ejercicio1.main;
 
-import org.unrn.app.Concurso;
-import org.unrn.mail.Emisor;
-import org.unrn.mail.EmisorDeMail;
-import org.unrn.registro.RegEnDisco;
-import org.unrn.registro.RegInscripciones;
+import org.unrn.ejercicio1.app.Concurso;
+import org.unrn.ejercicio1.mail.Emisor;
+import org.unrn.ejercicio1.mail.EmisorDeMail;
+import org.unrn.ejercicio1.registro.RegEnDisco;
+import org.unrn.ejercicio1.registro.RegInscripciones;
 
 import java.time.LocalDate;
 

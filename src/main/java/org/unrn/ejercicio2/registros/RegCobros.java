@@ -1,6 +1,6 @@
-package org.unrn.registro;
+package org.unrn.ejercicio2.registros;
 
-public interface RegInscripciones {
+public interface RegCobros {
     public void guardar(String texto);
 
     public void vaciar(String nomArchivo);

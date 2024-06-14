@@ -1,8 +1,8 @@
-package org.unrn;
+package org.unrn.ejercicio1;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import org.unrn.app.Concurso;
+import org.unrn.ejercicio1.app.Concurso;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

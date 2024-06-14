@@ -1,6 +1,6 @@
-package org.unrn;
+package org.unrn.ejercicio1;
 
-import org.unrn.mail.Emisor;
+import org.unrn.ejercicio1.mail.Emisor;
 
 public class MockEmisor implements Emisor {
     @Override

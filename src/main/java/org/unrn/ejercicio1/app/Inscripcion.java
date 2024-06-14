@@ -1,4 +1,4 @@
-package org.unrn.app;
+package org.unrn.ejercicio1.app;
 
 import java.time.LocalDate;
 

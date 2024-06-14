@@ -1,4 +1,4 @@
-package org.unrn.mail;
+package org.unrn.ejercicio1.mail;
 
 import jakarta.mail.*;
 import jakarta.mail.internet.InternetAddress;

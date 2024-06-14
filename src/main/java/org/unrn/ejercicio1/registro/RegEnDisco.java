@@ -1,4 +1,4 @@
-package org.unrn.registro;
+package org.unrn.ejercicio1.registro;
 
 import java.io.FileOutputStream;
 import java.io.IOException;

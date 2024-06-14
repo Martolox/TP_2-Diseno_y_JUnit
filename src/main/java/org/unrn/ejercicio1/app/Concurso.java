@@ -1,7 +1,7 @@
-package org.unrn.app;
+package org.unrn.ejercicio1.app;
 
-import org.unrn.mail.Emisor;
-import org.unrn.registro.RegInscripciones;
+import org.unrn.ejercicio1.mail.Emisor;
+import org.unrn.ejercicio1.registro.RegInscripciones;
 
 import java.time.LocalDate;
 import java.time.format.FormatStyle;

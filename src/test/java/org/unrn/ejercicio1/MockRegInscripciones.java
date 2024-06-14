@@ -1,6 +1,6 @@
-package org.unrn;
+package org.unrn.ejercicio1;
 
-import org.unrn.registro.RegInscripciones;
+import org.unrn.ejercicio1.registro.RegInscripciones;
 
 public class MockRegInscripciones implements RegInscripciones {
     public String texto;
